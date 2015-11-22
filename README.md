@@ -7,5 +7,9 @@
 [See it live](https://kiko.gfjaru.com/)
 
 # License
+The following directories and their contents are Copyright Yasutoshi Ida. You may not reuse anything therein without my permission:
 
-Released under MIT License.
+_posts/
+images/
+
+All other directories and files are designed and developed by @gfjaru under MIT License. 
