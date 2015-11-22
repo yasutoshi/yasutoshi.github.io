@@ -17,8 +17,8 @@ markdown:           rdiscount
 nav:
   - name:           "About"
     href:           ""
-  - name:           "Download"
-    href:           ""
+#  - name:           "Download"
+#    href:           ""
 
 # Sass
 sass:
